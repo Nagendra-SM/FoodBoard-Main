@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "822744736914",
+    "project_id": "foodboard-500c2",
+    "storage_bucket": "foodboard-500c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822744736914:android:d3ebff24380dceafb9324b",
+        "android_client_info": {
+          "package_name": "com.example.foodboard_admin_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822744736914-7db91dffqr93m14h668b724loat16b54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fq1QxpnaoKaKaH-2PWqS3exMC7ptRE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822744736914-7db91dffqr93m14h668b724loat16b54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822744736914:android:445a37c8cf74d2bcb9324b",
+        "android_client_info": {
+          "package_name": "com.example.foodboard_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822744736914-7db91dffqr93m14h668b724loat16b54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fq1QxpnaoKaKaH-2PWqS3exMC7ptRE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822744736914-7db91dffqr93m14h668b724loat16b54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
